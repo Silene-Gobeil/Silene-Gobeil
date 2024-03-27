@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I created this Github repository to follow the course "Data Sciences fundamentals" of the university of Bern.
 
 <!--
 **Silene-Gobeil/Silene-Gobeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
